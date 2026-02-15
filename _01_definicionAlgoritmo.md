@@ -6,8 +6,8 @@ Decision
 Ciclo
 
                 Algoritmo Saludar
-Imprimir         'Anon Clay'
-Imprimir           'Visio'
-                Fin Algoritmo
+                Escribir "Anon Clay"
+                Escribir "Visio"
+                FinAlgoritmo
 
 **/
