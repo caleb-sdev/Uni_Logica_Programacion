@@ -11,3 +11,10 @@
             Imprimir "mi nombre es: ", nombre
             FinAlgoritmo
 **/
+
+            Algoritmo introducirDatos
+            Definir nombre Como Caracter
+            Imprimir "proporciona tu nombre"
+            Leer nombre
+            Imprimir : "Tu nombre es: ", nombre
+            FinAlgoritmo
