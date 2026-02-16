@@ -7,4 +7,6 @@ Algoritmo OperadoresAritmeticos
     Imprimir 'Multiplicacion', c
     d = b / c
     Imprimir 'Division', d
+    e = 9 % 3
+    Imprimir 'Modulo', e
 FinAlgoritmo    
