@@ -6,4 +6,4 @@ Algoritmo OpcionMenu
     Leer numero
 
     opciones = numero == 1 O numero == 2 O numero == 3
-    Imprimir 'La seleccion es', opciones, 'es una opcion validar?'
+    Imprimir 'La seleccion es', opciones, 'es una opcion validar?',opciones
